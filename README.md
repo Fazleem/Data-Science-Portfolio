@@ -9,7 +9,7 @@ Banks have been facing problems to find clients who might be interested in inves
 ### Goal
 The goal of the project is to correctly classify which customers would be interested to take long term deposits and who don't
 
-![Job Profiles of Customers](https://github.com/Fazleem/Data-Science-Portfolio/blob/main/images/pairplot%20analysis.png)
+![Pairplot analysis of Numerical Data](/images/pairplot%20analysis.png)
 
 
 # [Project 2: Digit Recognization: Project Overview](https://github.com/Fazleem/Digit_Recognizer)
@@ -21,4 +21,4 @@ This is the Hello World program for the Computer Vision. MNIST ("Modified Nation
 The goal of the project is to correctly classify digits from a dataset of tens of thousands of handwritten images
 
 
-![knn error plot](https://github.com/Fazleem/Data-Science-Portfolio/blob/main/images/error_plot_knn.png)
+![knn error plot](/images/error_plot_knn.png)
