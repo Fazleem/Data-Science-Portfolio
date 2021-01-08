@@ -21,4 +21,5 @@ This is the Hello World program for the Computer Vision. MNIST ("Modified Nation
 The goal of the project is to correctly classify digits from a dataset of tens of thousands of handwritten images
 
 
-![knn error plot](/images/error_plot_knn.png)
+![predictions](/images/predictions.png)
+![training & validation plots](/images/training & validation.png)
