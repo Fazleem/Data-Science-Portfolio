@@ -23,6 +23,8 @@ The goal of the project is to build a flexible architecture that correctly class
 
 ### Training & Validation data Plot
 The plot tells us that initially the training loss is pretty high (apprximately 0.4), as the epoch increases and by adding a double convolution layers with batch normalization, the amount of loss gradually decreased.
+
+
 ![training_and_validation plots](/images/training_and_validation.png)
 
 ### Predictions
