@@ -22,4 +22,4 @@ The goal of the project is to correctly classify digits from a dataset of tens o
 
 
 ![predictions](/images/predictions.png)
-![training & validation plots](/images/training & validation.png)
+![training_and_validation plots](/images/training_and_validation.png)
