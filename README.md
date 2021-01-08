@@ -18,8 +18,13 @@ The goal of the project is to correctly classify which customers would be intere
 This is the Hello World program for the Computer Vision. MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
 
 ### Goal
-The goal of the project is to correctly classify digits from a dataset of tens of thousands of handwritten images
+The goal of the project is to build a flexible architecture that correctly classify digits from a dataset of tens of thousands of handwritten images
 
 
-![predictions](/images/predictions.png)
+### Training & Validation data Plot
+The plot tells us that initially the training loss is pretty high (apprximately 0.4), as the epoch increases and by adding a double convolution layers with batch normalization, the amount of loss gradually decreased.
 ![training_and_validation plots](/images/training_and_validation.png)
+
+### Predictions
+From the below plots we could see that most of the images are classified correctly using this architecture
+![predictions](/images/predictions.png)
